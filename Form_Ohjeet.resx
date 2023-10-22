@@ -1,0 +1,108 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label1.Text" xml:space="preserve">
+    <value>
+Pääset palaamaan ohjelman etusivulle.
+Ohjelman lopetus. Suositellaan käyttämään tätä ohjelman sulkemiseen.
+
+
+Uuden varauksen tekeminen, asiakkaan tietojen syöttäminen ja lisäpalveluiden myynti ja liittäminen varaukseen.
+Voit muokata tulevien varauksien alku- ja loppupäiviä, varauksen palveluita ja poistaa mökin varauksen, jos sen alkuun on korkeitaan 2 päivää.
+
+
+Hallinta: Voit lisätä, poistaa ja muokata alueita sekä palveluita. Raportointi: Voit tehdä hakuja varatuista mökeistä ja palveluista, tietyllä alueella ja aikavälillä.
+Voit lisätä järjestelmään mökkejä, muokata tietoja ja poistaa mökin. Käytössä myös yksinkertainen sanahaku. Näyttää myös kaikki yhdelle mökille tehdyt varaukset.
+
+Voit lisätä järjestelään uusia asiakkaita myös tätä kautta. Järjestelmässä olevien asiakkaiden tietojen muokkaaminen ja poistaminen. Poistaminen järjestelmästä onnistuu, 
+jos asiakkaalla ei ole tehtyjä varauksia. Yksinkertainen sanahaku. Näyttää myös kaikki yhdelle asiakkaalle tehdyt varaukset.
+
+Asiakkaiden laskujen tekeminen ja maksutilanteen seuraaminen. Laskun eräpäivä on 14 päivää vuokrauksen loppumispäivän jälkeen. 
+Voit tehdä asiakkaalle PDF-lasku, jonka voit tallentaa koneelle tulostusta tai sähköpostilaskua varten.
+
+
+
+
+</value>
+  </data>
+  <data name="lblOtsikot.Text" xml:space="preserve">
+    <value>Aloitus:
+    Etusivu:
+    Lopetus:
+
+Varausjärjestelmä:
+    Uusi varaus:
+    Hallinnoi varauksia:
+
+Mökkijärjestelmä:
+    Alueet ja palvelut:
+    Mökit:
+
+Asiakasjärjestelmä:
+
+
+Laskutus:    </value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>39</value>
+  </metadata>
+</root>

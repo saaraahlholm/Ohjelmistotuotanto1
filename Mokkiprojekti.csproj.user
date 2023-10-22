@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Form_Aloitus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_AlueetPalvelut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_AlueetPalvelutRapsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Asiakkaat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Laskutus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Mokit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Ohjeet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Uusivaraus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_VaraajanTiedot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Varaukset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
